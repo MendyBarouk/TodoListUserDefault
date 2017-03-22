@@ -12,6 +12,7 @@
 		9658A2BC1E8255BA00A4CE03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9658A2BA1E8255BA00A4CE03 /* Main.storyboard */; };
 		9658A2BE1E8255BA00A4CE03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9658A2BD1E8255BA00A4CE03 /* Assets.xcassets */; };
 		9658A2C11E8255BA00A4CE03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9658A2BF1E8255BA00A4CE03 /* LaunchScreen.storyboard */; };
+		9658A2C91E8256AC00A4CE03 /* TodosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9658A2C81E8256AC00A4CE03 /* TodosTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9658A2BD1E8255BA00A4CE03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9658A2C01E8255BA00A4CE03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9658A2C21E8255BA00A4CE03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9658A2C81E8256AC00A4CE03 /* TodosTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodosTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9658A2B61E8255BA00A4CE03 /* AppDelegate.swift */,
 				9658A2B81E8255BA00A4CE03 /* ViewController.swift */,
+				9658A2C81E8256AC00A4CE03 /* TodosTableViewController.swift */,
 				9658A2BA1E8255BA00A4CE03 /* Main.storyboard */,
 				9658A2BD1E8255BA00A4CE03 /* Assets.xcassets */,
 				9658A2BF1E8255BA00A4CE03 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				9658A2B91E8255BA00A4CE03 /* ViewController.swift in Sources */,
 				9658A2B71E8255BA00A4CE03 /* AppDelegate.swift in Sources */,
+				9658A2C91E8256AC00A4CE03 /* TodosTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
